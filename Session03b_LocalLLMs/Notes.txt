@@ -1,0 +1,176 @@
+GPT-5-Nano
+
+Extracted Info from PDF:
+
+Here is the extracted structured data from the provided policy document.
+
+- Policy holder name: Mr. VIJAYA CHAITANYA LINGUTLA
+- Policy number: 920222623110127101
+- Start date: 07-Feb-2026 (00:00 Hrs)
+- End date: 06-Feb-2027 (Midnight)
+- Premium amount: ₹6,019.00 (Total Premium Payable)
+  - Breakdown:
+    - Total Package Premium (Sec I + Sec II + Sec III): ₹5,101.00
+    - IGST @ 18%: ₹918.00
+    - TOTAL PREMIUM PAYABLE: ₹6,019.00
+
+- Coverage summary:
+  - Policy type: Reliance Private Car Package Policy - Schedule
+  - Vehicle details: Registration KA03MT2881, Ford Fiesta Classic CLXI 1.4 TDCI
+  - Insured Declared Value (IDV): ₹178,480
+  - Coverage included:
+    - Section I: Own Damage (OD) – Premium: ₹1,574.64
+    - Section II: Liability (TPPD) – Premium: ₹3,416.00
+    - Section III: Personal Accident (PA) for Owner Driver – Premium: ₹375.00
+      - PA limit for owner driver: ₹1,500,000
+  - Add-ons (subject to eligibility): Limit Sure – Pay as you Drive; Nil Depreciation Cover; NCB Retention Cover;
+  EMI Protection; Daily Allowance Benefit; Return to Invoice; Tyre Protector; Rim Protector; Hospital Cash; Consumable Expenses; Engine Protector; Key Protect; etc.
+  - Hypothecation/Lease: STATE BANK OF INDIA, N.A.
+  - Coverage geography: India (policy includes optional geographical extensions as listed in the document)
+  - Note: This is a comprehensive private car package policy with OD + liability coverage, PA for owner driver, and multiple add-ons.
+  
+  
+GPT-5-mini
+  
+Extracted Info from PDF:
+
+Policy holder name:
+- VIJAYA CHAITANYA LINGUTLA
+
+Policy number:
+- 920222623110127101
+
+Policy period (start — end):
+- From 00:00 Hrs on 07-Feb-2026 to Midnight of 06-Feb-2027
+(Shown also as: 07-Feb-2026 to 06-Feb-2027)
+
+Premium amount:
+- Total Premium Payable: ₹ 6,019.00 (includes IGST ₹ 918.00)
+- Package (Sec I + II + III) premium (before tax): ₹ 5,101.00
+  - Total Own Damage (Sec I): ₹ 1,260.00
+  - Total Liability (Sec II): ₹ 3,841.00
+  - Personal Accident (Sec III / Owner-Driver): ₹ 375.00
+  - NCB deduction applied: -₹ 314.93
+
+Coverage summary (key items and limits):
+- Policy type: Reliance Private Car Package Policy (Private car - package cover)
+- Insured vehicle: FORD FIESTA CLASSIC CLXI 1.4 TDCI
+  - Registration No.: KA03MT2881
+  - IDV (Vehicle): ₹ 178,480.00
+...
+  - No Claim Bonus (NCB) discount applied (20% on OD) — subject to conditions
+  - Policy excludes uses like hire/reward, racing, carriage of goods, etc., per standard wording
+
+If you want, I can extract additional items (full premium breakdown, add-on selections, or vehicle/nominee details) from the document.
+
+Lllama
+
+Extracted  Info from PDF:
+
+This appears to be a vehicle insurance policy proposal form from Reliance General Insurance Company Limited. 
+The form is quite detailed and requires information about the insured, the vehicle being insured, and various other details.
+
+Some notable sections in the form include:
+
+* Personal Information: This section asks for the insured's personal details such as name, address, age, occupation, etc.
+* Vehicle Details: This section asks for details about the vehicle being insured such as make, model, year, engine capacity, etc.
+* Policy Information: This section provides information about the policy being proposed, including the policy term, premium amount, and coverage limits.
+* Risk Declaration: This section requires the insured to declare any existing or potential risks that may affect the policy, such as previous accidents or claims.
+
+The form also includes various warnings and notifications, such as a prohibition of rebates under Section 41 of the Insurance Act, 1938, as amended by Insurance Laws (Amendment) Act, 2015.
+
+Overall, this form is quite comprehensive and requires a significant amount of information to be completed before an insurance policy can be issued.
+
+
+Insurance Extraction Summary:
+GPT-5-mini
+1.Prvoided details ,however grouped and summarized
+GPT-5-mini
+1.Prvoided details in structured and format
+2.Provided summary 
+Ollama
+Information not extracted as requested.
+
+
+gpt-4o
+
+🧾 Extracted Info from Image:
+
+```json
+{
+  "EventName": "2024 NVIDIA GTC AI Conference",
+  "Date": "March 18-21",
+  "Location": "San Jose, CA, and Virtual",
+  "Organizer": "SoftServe",
+  "Type": "In-Person Event"
+}
+```
+
+Resume PDF Extraction:
+
+OpenAI GPT-5-nano
+
+Extracted Info from PDF:
+
+{
+  "name": "Jyotshna Nallabothula",
+  "years_of_experience": "Not specified",
+  "skill_set": [
+    "Python",
+    "SQL",
+    "NoSQL",
+    "Power BI",
+    "Tableau",
+    "Matplotlib",
+    "Pandas",
+    "Excel",
+    "Git",
+    "Linux",
+    "GCP",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Neo4j",
+    "Analytical Thinking",
+    "Problem-solving",
+    "Flexibility",
+...
+    }
+  ],
+  "professional_summary": "Data-driven computer science student with hands-on experience in data visualization and CRM analytics. 
+  Proficient in Python, SQL/NoSQL, and CRM tooling, with a track record of delivering measurable outcomes: a 15% increase in sales performance tracking efficiency; 
+  20% uplift in customer engagement from segmentation insights; and a 40% reduction in project turnaround time through a custom Salesforce application. 
+  Pursuing a Master’s degree at Grand Valley State University with coursework in UX design, distributed systems, cloud computing, and database management. 
+  Known for analytical thinking, problem-solving, flexibility, and collaboration; seeking opportunities in data analytics, dashboard development, and cloud-based applications."
+}
+
+llama3
+
+Extracted Info from PDF:
+
+Here is the extracted information:
+
+**Candidate Name:** Jyotshna Nallabothula
+
+**Years of Experience:** Not specified
+
+**Skill Set:**
+
+* Programming Languages: Python, SQL, NoSQL
+* Data Visualization: Power BI, Tableau, Matplotlib, Pandas, Excel
+* Developer Tools: Git, Linux, GCP
+* Databases: PostgreSQL, MySQL, MongoDB, Redis, Neo4j
+* Soft Skills: Analytical Thinking, Problem-solving, Flexibility, Collaboration
+* CRM & Business tool: Salesforce (Admin, Reporting, Workflow Automation)
+
+**Education Summary:**
+
+* Grand Valley State University, Master's in Applied Computer Science (Aug 2023 - Present)
+	+ Coursework: UX design, Distributed Systems, Cloud Computing, Database Management
+* MVJ Engineering College, Bachelor's in Information Science (Jul 2019 - Jun 2023)
+	+ Coursework: System Analysis & design, Operating Systems, Data Structures, Computer Networks
+
+**Concise Professional Summary in JSON format:**
+...
+}
