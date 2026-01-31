@@ -1,0 +1,29 @@
+  {
+    "doc_id": "GSCS-005",
+    "doc_type": "project_proposal",
+    "title": "Project Proposal Template (Graduate Course)",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "sections": [
+      "Title and abstract",
+      "Problem statement and motivation",
+      "Related work (3–8 citations)",
+      "Dataset(s) and data governance",
+      "Methods and baselines",
+      "Evaluation plan and metrics",
+      "Timeline and milestones",
+      "Risks and mitigation",
+      "Compute/resources estimate"
+    ],
+    "required_fields": {
+      "team_members": "string[]",
+      "one_sentence_goal": "string",
+      "primary_metric": "string",
+      "baseline_model": "string",
+      "ethical_considerations": "string"
+    },
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "template", "proposal"]
+    }
+  }

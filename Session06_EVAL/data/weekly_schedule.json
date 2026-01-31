@@ -1,0 +1,31 @@
+  {
+    "doc_id": "GSCS-002",
+    "doc_type": "weekly_schedule",
+    "title": "Weekly Schedule: CS 601",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "weeks": [
+      {
+        "week": 1,
+        "theme": "Foundations and ML workflow",
+        "readings": ["Chapter 2: Learning theory primer", "Paper: Practical ML pitfalls"],
+        "deliverables": ["HW0 (setup)", "Quiz 1"]
+      },
+      {
+        "week": 2,
+        "theme": "Linear regression and regularization",
+        "readings": ["Chapter 3: Linear models"],
+        "deliverables": ["HW1"]
+      },
+      {
+        "week": 3,
+        "theme": "Logistic regression and calibration",
+        "readings": ["Chapter 4: Classification"],
+        "deliverables": ["HW2"]
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "schedule", "weekly-plan"]
+    }
+  }

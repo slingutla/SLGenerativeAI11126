@@ -1,0 +1,24 @@
+  {
+    "doc_id": "GSCS-009",
+    "doc_type": "exam_outline",
+    "title": "Midterm Exam Outline: CS 601",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "exam_date": "2026-03-15",
+    "format": {
+      "duration_minutes": 90,
+      "sections": ["Short answers", "Derivations", "Applied analysis"],
+      "allowed_materials": ["One-page handwritten notes", "Non-programmable calculator"]
+    },
+    "coverage": [
+      "Linear regression and regularization",
+      "Logistic regression and calibration",
+      "Bias-variance and generalization",
+      "Cross-validation and leakage",
+      "Optimization basics (GD/SGD)"
+    ],
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "exam", "midterm"]
+    }
+  }

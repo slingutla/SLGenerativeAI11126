@@ -1,0 +1,49 @@
+{
+    "doc_id": "GSCS-001",
+    "doc_type": "course_syllabus",
+    "title": "Syllabus: Machine Learning (Graduate)",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "credits": 3,
+    "instructor": {
+      "name": "Dr. A. Patel",
+      "email": "apatel@university.edu",
+      "office_hours": "Tue 2:00–4:00 PM, Thu 10:00–11:00 AM"
+    },
+    "course_description": "Core graduate course covering supervised/unsupervised learning, model selection, and modern deep learning fundamentals with rigorous evaluation.",
+    "prerequisites": [
+      "Linear algebra",
+      "Probability and statistics",
+      "Python programming",
+      "Intro ML (recommended)"
+    ],
+    "learning_objectives": [
+      "Formulate ML problems and choose appropriate models",
+      "Implement and evaluate learning algorithms",
+      "Apply regularization and validation correctly",
+      "Communicate results with reproducible experiments"
+    ],
+    "topics": [
+      "Bias-variance tradeoff",
+      "Linear models and regularization",
+      "Kernel methods",
+      "Neural networks basics",
+      "Unsupervised learning",
+      "Model selection and calibration"
+    ],
+    "assessment": {
+      "homeworks_percent": 35,
+      "midterm_percent": 20,
+      "final_project_percent": 35,
+      "participation_percent": 10
+    },
+    "policies": {
+      "late_days": 5,
+      "collaboration": "Discuss ideas allowed; submit independent writeups and code.",
+      "academic_integrity": "Plagiarism and unauthorized aid are prohibited."
+    },
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "syllabus", "machine-learning"]
+    }
+  }

@@ -1,0 +1,21 @@
+  {
+    "doc_id": "GSCS-008",
+    "doc_type": "discussion_prompt",
+    "title": "Seminar Prompt: Ethics of Model Deployment",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "prompt": "Discuss tradeoffs between accuracy, fairness, transparency, and privacy for a high-impact ML deployment (choose healthcare, hiring, or lending).",
+    "deliverable": {
+      "format": "1–2 page memo",
+      "due_date": "2026-03-01",
+      "requirements": [
+        "Define stakeholders and harms",
+        "Propose metrics and monitoring",
+        "Describe governance and rollback plan"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "seminar", "ethics"]
+    }
+  }

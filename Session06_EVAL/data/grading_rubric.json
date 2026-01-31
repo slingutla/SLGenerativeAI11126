@@ -1,0 +1,18 @@
+{
+    "doc_id": "GSCS-004",
+    "doc_type": "grading_rubric",
+    "title": "Rubric: Final Project Report",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "components": [
+      { "name": "Problem formulation", "weight_percent": 15, "criteria": ["Clear objective", "Motivation", "Scope"] },
+      { "name": "Methodology", "weight_percent": 25, "criteria": ["Sound approach", "Baselines", "Ablations"] },
+      { "name": "Experiments", "weight_percent": 25, "criteria": ["Proper splits", "Metrics", "Statistical rigor"] },
+      { "name": "Results & discussion", "weight_percent": 20, "criteria": ["Insightful interpretation", "Limitations", "Error analysis"] },
+      { "name": "Writing & reproducibility", "weight_percent": 15, "criteria": ["Organization", "Clarity", "Code availability"] }
+    ],
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "rubric", "project"]
+    }
+  }

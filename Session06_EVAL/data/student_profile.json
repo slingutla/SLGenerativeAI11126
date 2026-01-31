@@ -1,0 +1,24 @@
+  {
+    "doc_id": "GSCS-010",
+    "doc_type": "student_profile",
+    "title": "Student Course Profile (Intake Form)",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "fields": {
+      "student_id": "string",
+      "program": "string",
+      "prior_courses": "string[]",
+      "python_level": { "type": "enum", "values": ["beginner", "intermediate", "advanced"] },
+      "math_background": { "type": "enum", "values": ["basic", "solid", "strong"] },
+      "research_interests": "string[]",
+      "project_preferences": "string[]",
+      "time_commitment_hours_per_week": "number",
+      "access_needs": "string"
+    },
+    "privacy_note": "Used only for course support and team matching; do not include sensitive personal data.",
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "intake", "student-form"]
+    }
+  }
+]

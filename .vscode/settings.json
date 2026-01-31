@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "Session06_EVAL"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "chatgpt.openOnStartup": true
+}

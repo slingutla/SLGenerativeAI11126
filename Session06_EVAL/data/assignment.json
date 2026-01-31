@@ -1,0 +1,40 @@
+  {
+    "doc_id": "GSCS-003",
+    "doc_type": "assignment",
+    "title": "Homework 1: Regularization and Model Selection",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "due_date": "2026-02-07",
+    "overview": "Implement ridge/lasso, analyze validation curves, and write a short report on generalization behavior.",
+    "tasks": [
+      {
+        "task_id": "HW1-T1",
+        "description": "Implement ridge regression with closed-form and gradient-based solvers.",
+        "points": 30
+      },
+      {
+        "task_id": "HW1-T2",
+        "description": "Implement lasso via coordinate descent; compare sparsity patterns.",
+        "points": 30
+      },
+      {
+        "task_id": "HW1-T3",
+        "description": "Run k-fold CV; produce plots and interpret bias/variance tradeoffs.",
+        "points": 40
+      }
+    ],
+    "submission": {
+      "format": ["PDF report", "Git repository link"],
+      "reproducibility": "Include environment file and fixed random seeds."
+    },
+    "rubric": [
+      "Correctness",
+      "Clarity of analysis",
+      "Reproducibility",
+      "Code quality"
+    ],
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "assignment", "regularization", "cross-validation"]
+    }
+  }

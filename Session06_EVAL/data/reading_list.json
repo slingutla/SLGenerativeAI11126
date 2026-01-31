@@ -1,0 +1,19 @@
+{
+    "doc_id": "GSCS-006",
+    "doc_type": "reading_list",
+    "title": "Reading List: Statistical Learning & Deep Learning (Curated)",
+    "course_code": "CS 601",
+    "term": "Spring 2026",
+    "core_texts": [
+      { "title": "Pattern Recognition and Machine Learning", "author": "C. Bishop", "type": "book" },
+      { "title": "The Elements of Statistical Learning", "author": "Hastie, Tibshirani, Friedman", "type": "book" }
+    ],
+    "papers": [
+      { "title": "Attention Is All You Need", "venue": "NeurIPS", "year": 2017, "topic": "transformers" },
+      { "title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting", "venue": "JMLR", "year": 2014, "topic": "regularization" }
+    ],
+    "metadata": {
+      "created_at": "2026-01-27",
+      "tags": ["graduate", "readings", "bibliography"]
+    }
+  }
