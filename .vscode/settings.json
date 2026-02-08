@@ -4,5 +4,8 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
-    "chatgpt.openOnStartup": true
+    "chatgpt.openOnStartup": true,
+    "python.analysis.extraPaths": [
+        "./Session07_Fine_Tune/2_"
+    ]
 }
