@@ -36,4 +36,5 @@ def query(expr: str) -> dict:
     return {"count": len(result), "rows": result.head(10).to_dict(orient="records")}
 
 if __name__ == "__main__":
-    app.run()
+    # app.run()
+    app.run(transport="http", host="127.0.0.1", port=8765)
