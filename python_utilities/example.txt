@@ -1,0 +1,3 @@
+Hello, this is a file written by Python.
+This is the second line.
+This line was appended later.
