@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install -r TPM_JOB_APP\\\\requirements.txt 2>&1)",
+      "PowerShell(.\\\\.venv\\\\Scripts\\\\python.exe TPM_JOB_APP\\\\tpm_job_agent.py)",
+      "PowerShell(Get-ScheduledTask -TaskName 'TPM_JOB_APP_Daily')",
+      "PowerShell(Get-ScheduledTaskInfo)",
+      "PowerShell(.\\\\.venv\\\\Scripts\\\\python.exe -c \"import webbrowser, pathlib; p = pathlib.Path\\('TPM_JOB_APP/output/digest_20260518_1921.html'\\).resolve\\(\\); print\\('Opening:', p.as_uri\\(\\)\\); webbrowser.open\\(p.as_uri\\(\\)\\)\")",
+      "Bash(ls \"C:/Users/sarat/.claude/projects/c--Users-sarat-Downloads-GENAI-Training-SLGenerativeAI11126/memory/\" 2>&1)",
+      "Read(//c/Users/sarat/.claude/projects/c--Users-sarat-Downloads-GENAI-Training-SLGenerativeAI11126/memory/**)",
+      "PowerShell($end = \\(Get-Date\\).AddSeconds\\(90\\); do { Start-Sleep -Seconds 3; $state = \\(Get-ScheduledTask -TaskName 'TPM_JOB_APP_Daily'\\).State } while \\($state -eq 'Running' -and \\(Get-Date\\) -lt $end\\); \"Final state: $state @ $\\(Get-Date -Format 'HH:mm:ss'\\)\")"
+    ]
+  }
+}

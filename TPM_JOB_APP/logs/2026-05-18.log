@@ -1,0 +1,88 @@
+2026-05-18 19:38:55 [INFO] === TPM Job Agent run @ 2026-05-18T19:38:55.356847-07:00 ===
+2026-05-18 19:38:55 [INFO] Fetching search page start=0
+2026-05-18 19:38:56 [INFO] Page start=0: 10 cards parsed, 10 new.
+2026-05-18 19:38:58 [INFO] Fetching search page start=25
+2026-05-18 19:38:58 [INFO] Page start=25: 10 cards parsed, 10 new.
+2026-05-18 19:39:00 [INFO] Fetching search page start=50
+2026-05-18 19:39:01 [INFO] Page start=50: 9 cards parsed, 9 new.
+2026-05-18 19:39:03 [INFO] Fetching search page start=75
+2026-05-18 19:39:03 [INFO] Page start=75: 10 cards parsed, 10 new.
+2026-05-18 19:39:05 [INFO] Fetching search page start=100
+2026-05-18 19:39:06 [INFO] Page start=100: 8 cards parsed, 8 new.
+2026-05-18 19:39:08 [INFO] Fetching search page start=125
+2026-05-18 19:39:08 [INFO] Page start=125: 10 cards parsed, 10 new.
+2026-05-18 19:39:10 [INFO] Found 50 total postings in last 24h.
+2026-05-18 19:39:10 [INFO] 7 are new since last run.
+2026-05-18 19:39:18 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:18 [INFO] Ranked 4415698876 — Senior Program Manager @ The Hershey Company: 78
+2026-05-18 19:39:22 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:22 [INFO] Ranked 4416271160 — Technical Program Manager, Security Technology Glo @ Google: 62
+2026-05-18 19:39:28 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:28 [INFO] Ranked 4415731633 — Senior Technical Program Manager, Chip Tools @ NVIDIA: 42
+2026-05-18 19:39:32 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:32 [INFO] Ranked 4412856297 — Senior Manager, Programs @ Berklee College of Music: 28
+2026-05-18 19:39:37 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:37 [INFO] Ranked 4403768731 — Senior Program Manager, Information Security @ Business Centric Technology: 28
+2026-05-18 19:39:41 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:41 [INFO] Ranked 4412830596 — Technical Program Manager - ROCm Libraries @ AMD: 42
+2026-05-18 19:39:44 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:39:44 [INFO] Ranked 4412839683 — Technical Program Manager, Subscriber Management S @ SiriusXM: 78
+2026-05-18 19:39:44 [INFO] Digest saved: C:\Users\sarat\Downloads\GENAI\Training\SLGenerativeAI11126\TPM_JOB_APP\output\digest_20260518_1938.html
+2026-05-18 19:39:45 [INFO] Opened digest in default browser.
+2026-05-18 19:39:45 [WARNING] SMTP env vars not fully set — skipping email (digest still saved to output/).
+2026-05-18 19:39:45 [INFO] === Run complete: 7 new roles, 3 above fit threshold ===
+2026-05-18 19:42:07 [INFO] === TPM Job Agent run @ 2026-05-18T19:42:07.475095-07:00 ===
+2026-05-18 19:42:07 [INFO] Fetching search page start=0
+2026-05-18 19:42:08 [INFO] Page start=0: 10 cards parsed, 1 non-CA dropped, 9 new.
+2026-05-18 19:42:10 [INFO] Fetching search page start=25
+2026-05-18 19:42:11 [INFO] Page start=25: 10 cards parsed, 0 non-CA dropped, 10 new.
+2026-05-18 19:42:13 [INFO] Fetching search page start=50
+2026-05-18 19:42:13 [INFO] Page start=50: 7 cards parsed, 0 non-CA dropped, 7 new.
+2026-05-18 19:42:15 [INFO] Fetching search page start=75
+2026-05-18 19:42:16 [INFO] Page start=75: 2 cards parsed, 0 non-CA dropped, 2 new.
+2026-05-18 19:42:18 [INFO] Fetching search page start=100
+2026-05-18 19:42:18 [INFO] No more job cards at start=100 — stopping pagination.
+2026-05-18 19:42:18 [INFO] Found 28 total postings in last 24h.
+2026-05-18 19:42:18 [INFO] 19 are new since last run.
+2026-05-18 19:42:24 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:24 [INFO] Ranked 4416289210 — Technical Program Manager @ DeWinter Group: 42
+2026-05-18 19:42:31 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:31 [INFO] Ranked 4410847582 — Technical Program Manager (Adtech) @ Hillview Consulting Solutions: 62
+2026-05-18 19:42:35 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:35 [INFO] Ranked 4415708078 — Technical Program Manager, Manufacturing Operation @ Denken Solutions, Inc.: 78
+2026-05-18 19:42:39 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:39 [INFO] Ranked 4412863648 — Senior Technical Program Manager @ Arine: 72
+2026-05-18 19:42:43 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:43 [INFO] Ranked 4416427628 — Engineering Manager, PMO @ Ontic: 42
+2026-05-18 19:42:47 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:47 [INFO] Ranked 4416457707 — Senior/Staff Technical Program Manager - Autonomy  @ Zoox: 72
+2026-05-18 19:42:51 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:51 [INFO] Ranked 4339242626 — Sr. Technical Program Manager, ASIC @ Amazon: 28
+2026-05-18 19:42:56 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:42:56 [INFO] Ranked 4415732641 — Senior Technical Program Manager, DGX Cloud Softwa @ NVIDIA: 72
+2026-05-18 19:43:00 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:00 [INFO] Ranked 4412824797 — Technical Program Manager, Subscriber Management S @ SiriusXM: 78
+2026-05-18 19:43:04 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:04 [INFO] Ranked 4415726805 — Technical Program Manager @ Flex: 62
+2026-05-18 19:43:08 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:08 [INFO] Ranked 4398278622 — MarTech Integrations Lead @ Ursus, Inc.: 58
+2026-05-18 19:43:12 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:12 [INFO] Ranked 4415660698 — Technical Success Account Manager, Google Cloud Co @ Google: 62
+2026-05-18 19:43:16 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:16 [INFO] Ranked 4415648863 — Technical Success Account Manager, Google Cloud Co @ Google: 62
+2026-05-18 19:43:20 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:20 [INFO] Ranked 4415730137 — Compliance and Risk Manager @ Ursus, Inc.: 28
+2026-05-18 19:43:24 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:24 [INFO] Ranked 4416086501 — Technical Account Manager - AI Infrastructure @ Prime Intellect: 42
+2026-05-18 19:43:28 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:28 [INFO] Ranked 4416438670 — Senior Technical Account Manager @ Snowflake: 42
+2026-05-18 19:43:32 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:32 [INFO] Ranked 4416448500 — Senior Technical Account Manager @ Snowflake: 45
+2026-05-18 19:43:36 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:36 [INFO] Ranked 4416447827 — Client Service Associate (Title/Escrow/HOA/Propert @ City National Bank: 15
+2026-05-18 19:43:40 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-18 19:43:40 [INFO] Ranked 4374942533 — Technical Product Manager - Data Annotation & Labe @ Skild AI: 62
+2026-05-18 19:43:40 [INFO] Digest saved: C:\Users\sarat\Downloads\GENAI\Training\SLGenerativeAI11126\TPM_JOB_APP\output\digest_20260518_1942.html
+2026-05-18 19:43:40 [INFO] Opened digest in default browser.
+2026-05-18 19:43:40 [WARNING] SMTP env vars not fully set — skipping email (digest still saved to output/).
+2026-05-18 19:43:40 [INFO] === Run complete: 19 new roles, 11 above fit threshold ===

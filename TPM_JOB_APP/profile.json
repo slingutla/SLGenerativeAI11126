@@ -1,0 +1,35 @@
+{
+  "search": {
+    "role_keywords": "Technical Program Manager",
+    "country": "United States",
+    "country_code": "US",
+    "state": "California",
+    "state_code": "CA",
+    "location_query": "California, United States",
+    "posted_within_seconds": 86400,
+    "max_results_per_run": 50,
+    "min_fit_score_to_include": 55
+  },
+  "applicant": {
+    "first_name": "Sarath Chandra",
+    "last_name": "Lingutla",
+    "email": "saratheas@gmail.com",
+    "phone": "8126397173",
+    "city": "Wildomar",
+    "state": "California",
+    "state_code": "CA",
+    "country": "United States",
+    "country_code": "US",
+    "linkedin_url": "https://www.linkedin.com/in/sarathlingutla/",
+    "github_url": "https://github.com/slingutla",
+    "willing_to_relocate": "Yes",
+    "discovered_source": "LinkedIn",
+    "gender": "Male",
+    "race_ethnicity": "Asian",
+    "veteran_status": "Not a veteran",
+    "work_authorization_us": "Yes",
+    "needs_future_sponsorship": "Yes",
+    "resume_filename": "SarathChandraLingutla_Resume2.pdf"
+  },
+  "resume_summary": "Technical Program Manager / Sr. Business Analyst with 18+ years across Oracle eBS R12, Oracle Fusion Cloud, Frontier ERP, MES, Order-to-Cash, Procure-to-Pay, Shopfloor. Led PowerBI dashboards on Thingworx + InfluxDB, Frontier-Oracle integration for Bath Distribution Centers, Mx Holding Sales org for Bath ERP. PSM1, Salesforce Platform App Builder, Oracle Financials Cloud Payables, AWS Certified AI Practitioner (Mar 2026). Strong Agile/Waterfall, change & release management, global offshore coordination."
+}
